@@ -10,7 +10,7 @@ namespace ProyectoConsola1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Hola Pe Coyudos");
 
             Console.ReadLine();
         }
