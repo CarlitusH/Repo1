@@ -11,7 +11,7 @@ namespace ProyectoConsola1
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Pe Coyudos");
-
+            Console.WriteLine("Ya me voy");
             Console.ReadLine();
         }
     }
